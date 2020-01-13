@@ -67,12 +67,12 @@ body {
   text-align: center;
   font-size: 80px;
   font-weight: 100;
-  color: #eb4d4d;
+  color: #fada5e;
   margin-bottom: 130px;
 }
 
 .active {
-  background-color: #f7f7f7;
+  background-color: #dbdada;
 }
 .active .player-name {
   font-weight: 300;
@@ -82,13 +82,13 @@ body {
   content: "\2022";
   font-size: 47px;
   position: absolute;
-  color: #eb4d4d;
+  color: #fada5e;
   top: -7px;
   right: 10px;
 }
 
 .player-current-box {
-  background-color: #eb4d4d;
+  background-color: #fada5e;
   color: #fff;
   width: 40%;
   margin: 0 auto;
@@ -124,7 +124,7 @@ body {
   padding: 2.5px 0;
   font-size: 15px;
   font-weight: 300;
-  color: #eb4d4d;
+  color: #fada5e;
 }
 #goal-input:focus {
   outline: none;
@@ -134,7 +134,7 @@ body {
   margin-left: 70px;
 }
 #goal-text {
-  color: #eb4d4d;
+  color: #fada5e;
   display: inline;
 }
 button {
@@ -165,7 +165,7 @@ button:focus {
 }
 
 i {
-  color: #eb4d4d;
+  color: #fada5e;
   display: inline-block;
   margin-right: 15px;
   font-size: 32px;
@@ -207,5 +207,5 @@ i {
 }
 .winner .player-name {
   font-weight: 300;
-  color: #eb4d4d;
+  color: #fada5e;
 }
